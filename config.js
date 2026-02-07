@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Nithaanine ishtaano Sonumanikk ?",                                    // First interaction
+            text: "Enne ishtaano Sonumanikk ?",                                    // First interaction
             yesBtn: "Athelooo",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "Athremmmmmm, I love you mostest ❤️"           // Secret hover message
