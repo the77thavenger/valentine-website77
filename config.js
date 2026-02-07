@@ -77,9 +77,9 @@ const CONFIG = {
     // Add your own music URL after getting proper licenses
     music: {
         enabled: true,                     // Music feature is enabled
-        autoplay: false,                    // Try to autoplay (note: some browsers may block this)
+        autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dpi8lr773/video/upload/v1770480771/Ente_Ellam_Ellam_Alle_Video_Song_Meesamadhavan_Dileep_Kavya_Madhavan_zsb5ln.mp3", // Music streaming URL
-        stText: "🎵 Play Music",        // Button text to start music
+        startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
