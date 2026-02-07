@@ -206,7 +206,6 @@ function setupMusicPlayer() {
     const musicToggle = document.getElementById('musicToggle');
     const bgMusic = document.getElementById('bgMusic');
     const musicSource = document.getElementById('musicSource');
-    musicToggle.textContent = config.music.startText;
 
     // Only show controls if music is enabled in config
     if (!config.music.enabled) {
@@ -229,6 +228,7 @@ function setupMusicPlayer() {
             });
         }
     }
+    musicToggle.textContent = config.music.startText;
 
     // Toggle music on button click
     musicToggle.addEventListener('click', () => {
