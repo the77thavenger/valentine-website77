@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Thank you for loving me like with all your heart",
+        title: "Thank you for loving me with all your heart",
         message: "And let's have a beautiful life together forever..pinne nammakk oru supriseum",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
