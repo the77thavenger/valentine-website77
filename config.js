@@ -57,11 +57,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-            backgroundStart: "#8e2c2c",   // burgundy
-            backgroundEnd: "#c94b4b",     // muted rose
-            buttonBackground: "#ffd8a8",  // champagne gold
-            buttonHover: "#ffe8cc",
-            textColor: "#fff5f5"             // Text color (make sure it's readable!)
+            backgroundStart: "#fbc2eb",   // soft lavender pink
+            backgroundEnd: "#fdd6bd",     // creamy peach
+            buttonBackground: "#ff7aa2",  // rosy pink
+            buttonHover: "#ff9bb8",
+            textColor: "#d6336c"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
