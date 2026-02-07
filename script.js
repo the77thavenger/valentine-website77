@@ -228,7 +228,6 @@ function setupMusicPlayer() {
             });
         }
     }
-    musicToggle.textContent = config.music.startText;
 
     // Toggle music on button click
     musicToggle.addEventListener('click', () => {
