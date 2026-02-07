@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Enne ishtaano Sonumanikk ?",                                    // First interaction
             yesBtn: "Athelooo",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Athremm, I love you mostest ❤️"           // Secret hover message
+            secretAnswer: "Athremmmmmm, I love you mostest ❤️"           // Secret hover message
         },
         second: {
             text: "Ethra ishtam aan enne ?",                          // For the love meter
